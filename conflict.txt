@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Changes from main branch
+=======
+Changes from conflict branch
+>>>>>>> conflict-practice
+Changes from conflict branch
