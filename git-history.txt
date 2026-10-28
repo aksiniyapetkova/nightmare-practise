@@ -1,0 +1,8 @@
+* 587bd78 (HEAD -> main, storm) Second storm commit
+* eb25978 Add storm file
+* b7d4eb6 Add arrows on main
+* a19e900 (feature) Second_feature_commit
+* 8c03ab9 First_feature_commit
+* 4b579c3 Add_gitignore
+* 7ae87e8 Finish_my_song
+* 806ea1f Add first half of my favorite song
